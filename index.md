@@ -1,6 +1,6 @@
 ---
 ---
 
-#Yo!
+# Yo!
 
 We make games.
